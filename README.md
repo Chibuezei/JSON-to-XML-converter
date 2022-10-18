@@ -7,4 +7,6 @@ Today, XML and JSON are the most popular formats of data that can be understood 
 
 # Demo
 
-https://github.com/Chibuezei/JSON-to-XML-converter/blob/main/demonstration.mp4
+<video src='https://github.com/Chibuezei/JSON-to-XML-converter/blob/main/demonstration.mp4' width=180/>
+
+
